@@ -1,7 +1,7 @@
 {
   "main.css": "/webAppDevPort/static/css/main.ac965a12.chunk.css",
-  "main.js": "/webAppDevPort/static/js/main.e987cca9.chunk.js",
-  "main.js.map": "/webAppDevPort/static/js/main.e987cca9.chunk.js.map",
+  "main.js": "/webAppDevPort/static/js/main.b08b6a68.chunk.js",
+  "main.js.map": "/webAppDevPort/static/js/main.b08b6a68.chunk.js.map",
   "static/js/1.a27be9c7.chunk.js": "/webAppDevPort/static/js/1.a27be9c7.chunk.js",
   "static/js/1.a27be9c7.chunk.js.map": "/webAppDevPort/static/js/1.a27be9c7.chunk.js.map",
   "runtime~main.js": "/webAppDevPort/static/js/runtime~main.dfd45d37.js",
@@ -26,6 +26,6 @@
   "static/media/Docswave2.png": "/webAppDevPort/static/media/Docswave2.e6d7ec5a.png",
   "static/css/main.ac965a12.chunk.css.map": "/webAppDevPort/static/css/main.ac965a12.chunk.css.map",
   "index.html": "/webAppDevPort/index.html",
-  "precache-manifest.fd3100eceeffb7ba9992b0392a0d8b57.js": "/webAppDevPort/precache-manifest.fd3100eceeffb7ba9992b0392a0d8b57.js",
+  "precache-manifest.fa3867971a0ff8d345e89a6b37a47bb0.js": "/webAppDevPort/precache-manifest.fa3867971a0ff8d345e89a6b37a47bb0.js",
   "service-worker.js": "/webAppDevPort/service-worker.js"
 }
